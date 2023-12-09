@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="trabfinal.css">
+	<script type="text/javascript" src="trabfinal.js"></script>
+	<title>Bem-Vindo á UTAD</title>
+</head>
+<body>
+	<div id="geral">
+		<div id="cabeçalho">
+			<img id="utad_logo" align="left" src="logo_utad.PNG" title="Ir para o site da Utad">		
+		</div>	
+		<div id="navegaçao">
+			<ul>
+				<li><a href="https://aautad.pt/" target="_blank">AAUTAD</a></li>
+				<li><a href="https://www.utad.pt/viver/desporto/" target="_blank">Desporto UTAD</a></li>
+				<li><a href="trabalhoalojamento.html" target="_blank">Residências</a></li>
+				<li><a href="https://www.utad.pt/viver/cultura/" target="_blank">Cultura</a></li>
+				<li><a href="https://comunicacao.sas.utad.pt/estudar-na-utad/bolsas-de-estudo" target="_blank">Bolsas de estudo</a></li>
+				<li><a href="extra-curriculares.html" target="_blank">Atividades Extra-Curriculares</a></li>
+				<li><a href="https://www.utad.pt/contactos/como-chegar/" target="_blank">Como chegar á UTAD</a></li>
+			</ul>
+		</div>
+		<div id="topleft" align="center"> 
+    		<br><br><br>
+  			<video class="background-img" width="420" controls>
+				<source src="UTAD - Visita virtual.mp4" type="video/mp4">
+				<source src="UTAD - Visita virutal.ogg" type="video/ogg">	
+			</video>
+			<br><br><br>
+			<a id="vista" href="https://utad360.utad.pt/" target="_blank">Vista 360º UTAD</a>
+		</div>
+		<div id="topright">
+			<div id="p">			
+				<br>
+				<br>
+				<h3>Semana</h3>
+				
+				<h3>De</h3>
+					
+				<h3>Integração</h3>
+			</div>
+			<div id="topimg">
+			<img id="img-smi" src="integracao.jpg" width="250" style="float: right">
+			</div> 
+		</div>
+		<div id="bottomleft">
+			<a href="https://www.urbanosvilareal.pt/pt/" target="_blank"><img class="background-img" src="urbanos.jpeg"></a>Parceria de da Utad com Urbanos vila Real (transporte público de Vila Real)
+		</div>
+		<div id="bottomright">
+			<a href="https://www.sns.gov.pt/?cpp=1" target="_blank"><img id="sns" src="sns.png" width="200"></a>
+			<a href="https://www.dgs.pt/" target="_blank"><img id="dgs" src="dgs.png" width="200"></a>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<h2 class="h2" align="center">Protege te a ti e aos outros</h2>
+			<br>
+			<br>
+			<br>
+			<a class="ref" href="https://www.utad.pt/covid-19/" ><h3 align="center">COVID-19 UTAD</h3></a>
+		</div>
+	</div>
+</body>
+</html>
